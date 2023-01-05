@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qavajs/demo.git"
+    "url": "git+https://github.com/qavajs/webstorm-adapter.git"
   },
   "bin": {
     "cucumber-js": "bin/cucumber-js.js"
@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qavajs/demo/issues"
+    "url": "https://github.com/qavajs/webstorm-adapter/issues"
   },
-  "homepage": "https://github.com/qavajs/demo#readme"
+  "homepage": "https://github.com/qavajs/webstorm-adapter#readme"
 }
