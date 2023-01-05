@@ -1,0 +1,21 @@
+{
+  "name": "@qavajs/webstorm-adapter",
+  "version": "8.0.0",
+  "description": "Package to enable JetBrains WebStorm cucumber runner for qavajs projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qavajs/demo.git"
+  },
+  "bin": {
+    "cucumber-js": "bin/cucumber-js.js"
+  },
+  "authors": [
+    "Alexandr Galichenko"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qavajs/demo/issues"
+  },
+  "homepage": "https://github.com/qavajs/demo#readme"
+}
