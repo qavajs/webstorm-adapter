@@ -11,7 +11,8 @@
     "cucumber-js": "bin/cucumber-js.js"
   },
   "authors": [
-    "Alexandr Galichenko"
+    "Alexandr Galichenko",
+    "Alexandr Legchilov"
   ],
   "license": "MIT",
   "bugs": {
